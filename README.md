@@ -1,6 +1,8 @@
 
 <div align="center"><img height="200" src="docs/public/logo.png" width="200"/></div>
 
+**该项目当前已迁移至[此处](https://github.com/CrychicTeam/CrychicDoc?tab=readme-ov-file)**
+
 ## 协议
 
 本项目使用自由的[MIT许可](LICENSE)开源。
